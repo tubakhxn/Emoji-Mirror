@@ -1,0 +1,3 @@
+opencv-python
+mediapipe
+pillow  # optional, recommended on Windows for colored emoji rendering
